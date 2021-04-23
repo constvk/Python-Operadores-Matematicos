@@ -1,2 +1,7 @@
-# Python---Operadores-Matematicos
-Python - Operadores Matematicos
+# Python - Operadores Matematicos
+
+Operação / Operador
+adição /	**+**
+subtração	/ **-**
+multiplicação /	*****
+divisão	/ **/**
